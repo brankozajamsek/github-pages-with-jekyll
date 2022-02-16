@@ -1,6 +1,6 @@
 ---
-title: "About me"
+title: "About me window"
 date: 2022-02-16
 ---
 
-Today I ma making my first post.
+Post 1:
